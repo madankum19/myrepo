@@ -1,5 +1,3 @@
 
 
-touch /tmp/m1.txt /tmp/m2.txt /tmp/m2.txt
-
-echo" files creation completed"
+Sample files creation completed
